@@ -1,1 +1,1 @@
-{"name": "isaax-test","version": "","description": "","author": "","license": "","language": "","scripts": {"start": "python"}}
+{"name": "isaax-test","version": "","description": "","author": "","license": "","language": "","scripts": {"start": "python main.py"}}
