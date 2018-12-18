@@ -1,1 +1,13 @@
-{"name": "isaax-test","version": "","description": "","author": "","license": "","language": "","scripts": {"start": "python main.py"}}
+{
+  "name": "getting-started-isaax",
+  "version": "",
+  "description": "python - raspberry-pi",
+  "main": "app.py",
+  "author": "",
+  "license": "",
+  "language":"python",
+  "scripts": {
+     "start": "python -u app.py"
+    },
+   "dependency": null
+}
